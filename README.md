@@ -4,7 +4,7 @@
 - Karena sudah melebihi batas. Di progam sudah diatur maksimuumnya 15 sedangkan penumpangnya 16.
 # Hasil dua
 #![AltText](https://github.com/natasyaadelia/PBO-2/blob/master/no%202%20a.png "hasil dua")
-Di progam ini tidak berjalan karena seharusnya dibuka di class setelahnya. 
+- Di progam ini tidak berjalan karena seharusnya dibuka di class setelahnya. 
 # Hasil tiga
 #![AltText](https://github.com/natasyaadelia/PBO-2/blob/master/no%202%20b.png "hasil tiga")
 # Hasil empat
